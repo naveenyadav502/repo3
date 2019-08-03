@@ -1,1 +1,3 @@
-# repo3
+<?php 
+phpinfo();
+?>
